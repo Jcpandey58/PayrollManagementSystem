@@ -1,0 +1,5 @@
+Line 14: Class MSComctlLib.ProgressBar of control p_load was not a loaded control class.
+Line 20: The property name _ExtentX in p_load is invalid.
+Line 21: The property name _ExtentY in p_load is invalid.
+Line 22: The property name _Version in p_load is invalid.
+Line 24: The property name Scrolling in p_load is invalid.
